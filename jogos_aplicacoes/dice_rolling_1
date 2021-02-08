@@ -1,3 +1,6 @@
+import random
+from time import sleep
+
 # Project - Dice Rolling 1.0
 
 while True:
