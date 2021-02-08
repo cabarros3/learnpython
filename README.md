@@ -13,7 +13,7 @@ https://www.datacamp.com/
 
 ## Jogos e desafio em Python
 
---> [Sortedor](sorteador_1.py)
+--> [Sortedor](https://github.com/cabarros3/learnpython/blob/main/jogos_aplicacoes/sorteador_1.py)
 
 --> Dice Rolling
 
