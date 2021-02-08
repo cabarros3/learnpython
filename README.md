@@ -13,7 +13,10 @@ https://www.datacamp.com/
 
 ## Jogos e desafio em Python
 
---> Sortedor
+--> [Sortedor](sorteador_1.py)
+
 --> Dice Rolling
+
 --> Guess the number
+
 --> Mad libs generator
