@@ -13,10 +13,10 @@ https://www.datacamp.com/
 
 ## Jogos e desafio em Python
 
---> [Sortedor](https://github.com/cabarros3/learnpython/blob/main/jogos_aplicacoes/sorteador_1.py)
+--> [Sortedor 1.0](https://github.com/cabarros3/learnpython/blob/main/jogos_aplicacoes/sorteador_1.py)
 
---> Dice Rolling
+--> [Dice Rolling 1.0](https://github.com/cabarros3/learnpython/edit/main/jogos_aplicacoes/dice_rolling_1)
 
---> Guess the number
+--> [Guess the number 1.0](https://github.com/cabarros3/learnpython/blob/main/jogos_aplicacoes/guess_number.py)
 
---> Mad libs generator
+--> [Bola Mágica 8 1.0](https://github.com/cabarros3/learnpython/blob/main/jogos_aplicacoes/bola_8.py)
