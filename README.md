@@ -11,7 +11,7 @@ https://www.cursoemvideo.com/course/python-3-mundo-2/
 
 https://www.datacamp.com/
 
-## Jogos e desafio em Python
+## Jogos e desafios em Python
 
 --> [Sortedor 1.0](https://github.com/cabarros3/learnpython/blob/main/jogos_aplicacoes/sorteador_1.py)
 
