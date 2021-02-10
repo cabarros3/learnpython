@@ -1,4 +1,4 @@
-# learnpython
+# Aprendendo Python 
 Repositório dos meus estudos de python!
 
 Exercícios retirados de:
